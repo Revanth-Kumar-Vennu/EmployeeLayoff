@@ -1,0 +1,22 @@
+.open layoff1
+
+
+CREATE TABLE company
+(
+cid VARCHAR(10),
+cname VARCHAR(60),
+countrycode VARCHAR(10),
+countryname VARCHAR(60),
+areacode VARCHAR(10)
+);
+
+CREATE TABLE factors
+(
+factor1 VARCHAR(2),
+factor2 VARCHAR(2),
+factor3 VARCHAR(2),
+factor4 VARCHAR(2),
+factor5 VARCHAR(2),
+factor6 VARCHAR(2),
+factor7 VARCHAR(2)
+);
